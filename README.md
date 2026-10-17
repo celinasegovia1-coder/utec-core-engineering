@@ -1,2 +1,2 @@
 # UTEC Core Engineering
-Repositorio para las actividades y proyectos de ingeniería de UTEC.
+Repositorio de proyectos de programación y flujo de control para UTEC.
